@@ -6,7 +6,7 @@
 
 @media screen and (min-width: 601px) {
     body {
-        font-size: 15px;
+        font-size: 14px;
     }
 }
 
@@ -37,7 +37,6 @@ nav {
     align-items: center;
     background: white;
     height: 8vh;
-    width: 100%;
 }
 
 .nav-list {
