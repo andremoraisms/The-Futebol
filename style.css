@@ -37,6 +37,7 @@ nav {
     align-items: center;
     background: white;
     height: 8vh;
+    width: 100%;
 }
 
 .nav-list {
