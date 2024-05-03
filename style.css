@@ -69,9 +69,11 @@ footer {
     left: 0;
     bottom: 0;
     padding: 0;
-    width: 100%;
 }
 
+.final {
+    position: fixed;
+}
 
 .content {
     margin-bottom: 60px;
