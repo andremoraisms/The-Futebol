@@ -94,7 +94,7 @@ footer {
 
 body {
     font-family: system-ui, -apple-system, sans-serif;
-    background: url(/imagens/bg.jpg) no-repeat center center;
+    background: url(./imagens/bg.jpg) no-repeat center center;
     background-size: cover;
     height: 92vh;
     background-attachment: fixed;
