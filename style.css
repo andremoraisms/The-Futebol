@@ -51,29 +51,21 @@ nav {
     border-bottom-color: #332;
 }
 
-
 footer {
-    margin-top: auto;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     background-color: white;
     color: #333;
     text-align: center;
-    bottom: 0;
-    width: 100%;
-}
-
-.content {
-    margin: 5px 5px 5px 5px;
+    padding: 10px 0;
 }
 
 .centro {
-    height: 96.7%;
+    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-main {
-    overflow-y: auto; /* Adicionando uma barra de rolagem vertical quando necessário */
 }
 
 .centro2{
@@ -95,6 +87,7 @@ main {
 }
 
 .paragrafo {
+    margin-top: 100px;
     width: 300px;
     padding: 50px;
     color: black;
@@ -108,12 +101,8 @@ body {
     font-family: system-ui, -apple-system, sans-serif;
     background: url(./imagens/bg.jpg) no-repeat center center;
     background-size: cover;
-    height: 92vh;
+    height: 100%;
     background-attachment: fixed;
-}
-
-.container {
-    text-align: center;
 }
 
 .card {
@@ -127,6 +116,7 @@ body {
     display: inline-block;
     vertical-align: top;
     background-color: white;
+    margin-bottom: 20px;
 }
 
 .card img {
