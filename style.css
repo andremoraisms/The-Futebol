@@ -83,7 +83,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid #ccc;
+    border: 1px solid #333;
 }
 
 .container3 {
@@ -209,10 +209,10 @@ table {
 }
 
 th, td {
-    border: 1px solid black;
+    border: 1px solid #333;
     padding: 5px;
     text-align: center;
-    height: 40px;
+    height: 38.6px;
 }
 
 th {
