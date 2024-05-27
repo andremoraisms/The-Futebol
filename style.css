@@ -203,3 +203,18 @@ input[type="submit"] {
     font-size: 16px;
     opacity: 90%;
 }
+
+table {
+    border-collapse: collapse;
+    width: 40%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
