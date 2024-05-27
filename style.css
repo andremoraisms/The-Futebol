@@ -53,6 +53,7 @@ nav {
 
 
 footer {
+    margin-top: 10px;
     background-color: white;
     color: #333;
     text-align: center;
@@ -75,6 +76,24 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.centro2{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+}
+
+.container3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto {
+    margin: 0 10px;
 }
 
 .paragrafo {
@@ -123,6 +142,10 @@ body {
     font-size: 14px;
 }
 
+.top{
+    margin-top: 2px;
+}
+
 .text {
     font-size: xxx-large;
     margin-top: 10px;
@@ -133,11 +156,10 @@ body {
 .container2 {
     color: #333;
     width: 1000px;
-    height: 600px;
-    margin: 0 auto;
+    height: 1100px;
     display: grid;
     grid-template-columns: 5fr 5fr;
-    grid-gap: 20px;
+    margin-bottom: 30px;
 }
 
 .coluna {
