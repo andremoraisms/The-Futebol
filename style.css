@@ -216,3 +216,23 @@ th, td {
 th {
     background-color: #f2f2f2;
 }
+
+.bolinha {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 1px;
+}
+
+.verde {
+    background-color: #53e492;
+}
+
+.cinza {
+    background-color: rgba(141, 140, 140, 0.753);
+}
+
+.vermelha {
+    background-color: #ec697a;
+}
