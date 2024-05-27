@@ -161,12 +161,6 @@ form {
     margin: auto;
 }
 
-label {
-    display: block;
-    margin-bottom: 5px;
-    color: black;
-}
-
 input[type="text"],
     input[type="email"],
     input[type="tel"],
