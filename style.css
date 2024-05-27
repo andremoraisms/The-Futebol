@@ -154,12 +154,12 @@ body {
 }
 
 .container2 {
+    margin-top: 10px;
     color: #333;
     width: 1000px;
     height: 1100px;
     display: grid;
     grid-template-columns: 5fr 5fr;
-    margin-bottom: 30px;
 }
 
 .coluna {
